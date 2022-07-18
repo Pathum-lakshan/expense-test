@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">expense</string>
+    <string name="powered_by">Powered By</string>
+    <string name="ceylon_linux">Ceylon Linux</string>
+    <string name="login">Login</string>
+    <string name="log">log in now track all your expenses and income at a panel</string>
+    <string name="name">name</string>
+    <string name="email">Name</string>
+    <string name="password">Password</string>
+    <string name="forget_password">Forget Password</string>
+    <string name="log_in">Log in</string>
+    <string name="continue_with_google">Continue with google</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="register">Register</string>
+    <string name="expense">expense</string>
+    <string name="save">Save</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+    <string name="user_name">User Name</string>
+    <string name="account">Account</string>
+    <string name="emailss">Email</string>
+    <string name="money">Money</string>
+    <string name="passwords">Password</string>
+    <string name="location">Location</string>
+    <string name="user">User</string>
+    <string name="home">Home</string>
+    <string name="logg">Log</string>
+    <string name="back">Back</string>
+</resources>
